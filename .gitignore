@@ -1,0 +1,20 @@
+# git ignore file
+
+Binaries/*
+DerivedDataCache/
+Intermediate/
+Plugins/*/*/Binaries/
+Plugins/*/*/Intermediate/
+Programs/UnrealHeaderTool/
+Programs/UnrealPak/
+Saved/*
+Shaders/Binaries/
+Source/*/*/*/obj/
+Source/*/*/obj/
+Source/*/obj/
+
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.*.suo
