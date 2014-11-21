@@ -2,7 +2,7 @@
 
 Binaries/*
 DerivedDataCache/
-Intermediate/
+Intermediate/*
 Plugins/*/*/Binaries/
 Plugins/*/*/Intermediate/
 Programs/UnrealHeaderTool/
@@ -13,6 +13,7 @@ Source/*/*/*/obj/
 Source/*/*/obj/
 Source/*/obj/
 Content/*
+
 
 *.opensdf
 *.sdf
