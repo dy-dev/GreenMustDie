@@ -12,6 +12,7 @@ Shaders/Binaries/
 Source/*/*/*/obj/
 Source/*/*/obj/
 Source/*/obj/
+Content/*
 
 *.opensdf
 *.sdf
