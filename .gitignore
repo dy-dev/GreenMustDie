@@ -12,7 +12,7 @@ Shaders/Binaries/
 Source/*/*/*/obj/
 Source/*/*/obj/
 Source/*/obj/
-Content/*
+Content/StarterContent/*
 
 
 *.opensdf
@@ -20,4 +20,3 @@ Content/*
 *.sln
 *.suo
 *.*.suo
-Content
