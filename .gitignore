@@ -17,6 +17,5 @@ Content/StarterContent/*
 
 *.opensdf
 *.sdf
-*.sln
 *.suo
 *.*.suo
